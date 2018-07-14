@@ -1,0 +1,3 @@
+rootProject.name = 'onedroid'
+
+include ':app'
